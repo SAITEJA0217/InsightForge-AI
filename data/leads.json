@@ -1,0 +1,206 @@
+[
+  {
+    "id": "lead-1779001193304-wplvm",
+    "fullName": "Alex Mercer",
+    "email": "alex@acme-ai.com",
+    "companyName": "Acme AI Solutions",
+    "websiteUrl": "https://vercel.com",
+    "industry": "Artificial Intelligence",
+    "businessGoals": "Accelerate enterprise customer acquisition and automate technical discovery calls.",
+    "painPoints": "Sales reps spend 15 hours a week manually researching prospects before initial qualification.",
+    "timestamp": "2026-05-17T06:59:53.304Z",
+    "reportStatus": "completed",
+    "emailStatus": "sent",
+    "pdfArchiveStatus": "archived",
+    "scrapedData": {
+      "metaTitle": "Vercel: Build and deploy the best web experiences with the AI Cloud",
+      "metaDescription": "Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+      "headings": {
+        "h1": [
+          "Build and deploy on the AI Cloud.",
+          "Build and deploy on the AI Cloud."
+        ],
+        "h2": [
+          "Scale your",
+          "without compromising",
+          "Get Started",
+          "Build",
+          "Scale"
+        ],
+        "h3": [
+          "Innovation",
+          "Scalability",
+          "Support"
+        ]
+      },
+      "services": [
+        "Bot ManagementScalable bot protection",
+        "Platform SecurityDDoS Protection, Firewall",
+        "Next.jsThe native Next.js platform",
+        "Multi-tenant PlatformsScale apps with one codebase",
+        "TemplatesJumpstart app development",
+        "Partner FinderGet help from solution partners"
+      ],
+      "productKeywords": [
+        "AI",
+        "Cloud",
+        "Enterprise",
+        "Security",
+        "Data",
+        "Mobile",
+        "Web",
+        "API"
+      ],
+      "ctaAnalysis": [
+        "Contact",
+        "Sign Up",
+        "Get a Demo"
+      ],
+      "seoObservations": [
+        "Multiple H1 tags detected; consider consolidating for better hierarchy"
+      ]
+    },
+    "aiAnalysis": {
+      "companyOverview": "Acme AI Solutions is a dynamic organization operating within the highly competitive Artificial Intelligence sector. By evaluating their current digital footprint, it is evident that the company possesses strong foundational assets but requires advanced technological leverage to scale efficiently.",
+      "industryUnderstanding": "The Artificial Intelligence industry is currently undergoing a massive structural shift driven by artificial intelligence and automated workflows. Organizations that rely on manual qualification and legacy communication pipelines are experiencing escalating customer acquisition costs (CAC) and prolonged sales cycles.",
+      "websiteAudit": "An analysis of Vercel: Build and deploy the best web experiences with the AI Cloud reveals a professional aesthetic, but the conversion architecture lacks distinct, conversational funnels. The primary messaging (Build and deploy on the AI Cloud.) must be re-aligned to directly target enterprise decision-makers.",
+      "uxAnalysis": "While the navigation hierarchy is functional, potential prospects face friction when attempting to self-qualify. Replacing static lead forms with an interactive, AI-driven discovery experience will significantly boost conversion rates.",
+      "seoObservations": "On-page elements indicate foundational SEO compliance. However, to dominate organic search within the Artificial Intelligence space, Acme AI Solutions must deploy rich schema markup and programmatic SEO landing pages targeting core service clusters.",
+      "aiAutomationOpportunities": [
+        {
+          "title": "Autonomous Lead Enrichment & Scoring",
+          "description": "Directly resolves your pain point: \"Sales reps spend 15 hours a week manually researching prospects before initial qualification.\". By deploying an automated scraping and enrichment pipeline, inbound leads are instantly scored and routed without manual intervention.",
+          "impact": "High",
+          "opacity": "Low",
+          "effort": "Low"
+        },
+        {
+          "title": "Conversational AI Sales Assistant",
+          "description": "Directly aligns with your goal: \"Accelerate enterprise customer acquisition and automate technical discovery calls.\". An AI agent trained on your technical whitepapers and pricing models can engage prospects 24/7, answering tier-1 questions and booking qualified meetings.",
+          "impact": "High",
+          "effort": "Medium"
+        },
+        {
+          "title": "Automated Client Onboarding Workflows",
+          "description": "Eliminates administrative bottlenecks by automatically generating personalized onboarding portals, contracts, and kickoff documentation upon deal closure.",
+          "impact": "Medium",
+          "effort": "Low"
+        }
+      ],
+      "growthRecommendations": [
+        "Implement dynamic, AI-personalized landing pages tailored to specific prospect industries",
+        "Deploy an automated PDF audit generator (similar to InsightForge) to capture high-intent enterprise leads",
+        "Establish a predictive lead scoring model integrated directly into your existing CRM",
+        "Restructure website CTAs from generic \"Contact\" to high-value interactive assessments"
+      ],
+      "personalizedInsights": "By transitioning from manual qualification to an AI-powered autonomous workflow, Acme AI Solutions can effectively neutralize its primary bottleneck (Sales reps spend 15 hours a week manually researching prospects before initial qualification.) while accelerating progress toward its core objective (Accelerate enterprise customer acquisition and automate technical discovery calls.). We estimate a 35% reduction in sales cycle duration within the first 60 days of deployment.",
+      "leadNurturingSuggestions": [
+        "Day 1: Send an automated, highly customized executive summary highlighting 3 quick-win opportunities",
+        "Day 3: Deliver a personalized video walkthrough or case study demonstrating ROI in the Artificial Intelligence sector",
+        "Day 7: Extend an exclusive invitation to a private executive roundtable or one-on-one AI strategy mapping session"
+      ],
+      "aiImplementationRoadmap": [
+        {
+          "phase": "Phase 1: Discovery & Ingestion",
+          "title": "Infrastructure & Workflow Mapping",
+          "description": "Audit existing data silos, configure automated webhooks, and deploy the foundational lead enrichment scraper.",
+          "duration": "2 Weeks"
+        },
+        {
+          "phase": "Phase 2: Intelligent Automation",
+          "title": "Custom AI Agent Fine-Tuning",
+          "description": "Train dedicated LLMs on Acme AI Solutions internal documentation, sales scripts, and product architecture.",
+          "duration": "3 Weeks"
+        },
+        {
+          "phase": "Phase 3: Scale & Optimization",
+          "title": "Autonomous Growth Loops",
+          "description": "Launch predictive analytics dashboards and activate automated, multi-channel lead nurturing sequences.",
+          "duration": "2 Weeks"
+        }
+      ],
+      "auditScores": {
+        "overall": 88,
+        "seo": 84,
+        "ux": 90,
+        "aiReadiness": 94,
+        "messaging": 85
+      }
+    },
+    "pdfUrl": "/api/pdf/lead-1779001193304-wplvm",
+    "driveFileId": "drive-mock-id-1779001387159"
+  },
+  {
+    "id": "mock-1",
+    "fullName": "Sarah Connor",
+    "email": "sarah@skynet-defense.com",
+    "companyName": "Cyberdyne Defense",
+    "websiteUrl": "https://vercel.com",
+    "industry": "Artificial Intelligence",
+    "businessGoals": "Automate lead scoring and increase conversion rates by 40%",
+    "painPoints": "Manual qualification takes 20 hours per week and leads get cold",
+    "timestamp": "2026-05-17T04:59:53.331Z",
+    "reportStatus": "completed",
+    "emailStatus": "sent",
+    "pdfArchiveStatus": "archived",
+    "pdfUrl": "/api/pdf/mock-1",
+    "aiAnalysis": {
+      "companyOverview": "Cyberdyne Defense is an emerging leader in enterprise AI automation solutions.",
+      "industryUnderstanding": "The AI automation sector is experiencing hyper-growth, with 73% of enterprises adopting autonomous workflows.",
+      "websiteAudit": "Modern architecture detected. High performance scores but missing clear conversational CTA funnels.",
+      "uxAnalysis": "Clean navigation structure. Hero messaging could be optimized for enterprise decision makers.",
+      "seoObservations": "Strong domain authority. Missing structured schema markup for core AI product offerings.",
+      "aiAutomationOpportunities": [
+        {
+          "title": "Autonomous Lead Enrichment",
+          "description": "Deploy an automated workflow to scrape and qualify inbound enterprise leads instantly.",
+          "impact": "High",
+          "effort": "Low"
+        },
+        {
+          "title": "Conversational Sales AI",
+          "description": "Implement an interactive AI agent trained on your technical whitepapers to handle tier-1 inquiries.",
+          "impact": "High",
+          "effort": "Medium"
+        }
+      ],
+      "growthRecommendations": [
+        "Implement dynamic personalization on landing pages",
+        "Deploy automated PDF audit generation for inbound prospects",
+        "Integrate CRM with predictive scoring models"
+      ],
+      "personalizedInsights": "By automating your initial technical qualification, Cyberdyne Defense can reduce sales cycle duration by an estimated 14 days.",
+      "leadNurturingSuggestions": [
+        "Send automated case study sequence on day 3",
+        "Invite to private AI executive roundtable on day 7"
+      ],
+      "aiImplementationRoadmap": [
+        {
+          "phase": "Phase 1",
+          "title": "Data Pipeline & Scraper Setup",
+          "description": "Set up automated data ingestion from inbound forms.",
+          "duration": "2 Weeks"
+        },
+        {
+          "phase": "Phase 2",
+          "title": "Custom AI Agent Training",
+          "description": "Fine-tune LLM on sales collateral and technical documentation.",
+          "duration": "3 Weeks"
+        },
+        {
+          "phase": "Phase 3",
+          "title": "Full Automation Deployment",
+          "description": "Integrate with CRM and launch automated email workflows.",
+          "duration": "2 Weeks"
+        }
+      ],
+      "auditScores": {
+        "overall": 88,
+        "seo": 85,
+        "ux": 90,
+        "aiReadiness": 95,
+        "messaging": 82
+      }
+    }
+  }
+]
